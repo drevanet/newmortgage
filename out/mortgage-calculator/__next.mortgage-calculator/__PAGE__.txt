@@ -1,0 +1,20 @@
+1:"$Sreact.fragment"
+2:I[43460,["/_next/static/chunks/24_hk86jz1wna.js","/_next/static/chunks/3jlron7oxxev0.js","/_next/static/chunks/1tn2qb393mzu2.js"],"default"]
+3:I[97367,["/_next/static/chunks/24_hk86jz1wna.js","/_next/static/chunks/3jlron7oxxev0.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+8:I[97367,["/_next/static/chunks/24_hk86jz1wna.js","/_next/static/chunks/3jlron7oxxev0.js"],"ViewportBoundary"]
+9:I[97367,["/_next/static/chunks/24_hk86jz1wna.js","/_next/static/chunks/3jlron7oxxev0.js"],"MetadataBoundary"]
+b:I[39756,["/_next/static/chunks/24_hk86jz1wna.js","/_next/static/chunks/3jlron7oxxev0.js"],"default"]
+c:I[37457,["/_next/static/chunks/24_hk86jz1wna.js","/_next/static/chunks/3jlron7oxxev0.js"],"default"]
+7:X
+e:X
+e:C
+0:{"buildId":"eePoMtaf8YKJhKfEBhVBq","data":[{"rsc":["$","$1","c",{"children":[["$","main",null,{"children":[["$","section",null,{"className":"bg-[#071a31] py-20 text-white","children":["$","div",null,{"className":"container-wide","children":[["$","p",null,{"className":"text-xs font-black uppercase tracking-[.2em] text-[#f1b900]","children":"Mortgage calculator"}],["$","h1",null,{"className":"mt-4 text-5xl font-black sm:text-6xl","children":"Build a quick payment estimate."}],["$","p",null,{"className":"mt-5 max-w-2xl leading-7 text-white/60","children":"Adjust the numbers to explore different purchase scenarios, then send a copy of your estimate to your inbox."}]]}]}],["$","$L2",null,{}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/1tn2qb393mzu2.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"The Preferred Mortgage"}],["$","meta","1",{"name":"description","content":"Clear, personalized mortgage guidance for homebuyers, homeowners, and property investors."}]]}]}]}],null]}],"isPartial":"$@a","staleTime":"$7","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lb",null,{"parallelRouterKey":"children","template":["$","$Lc",null,{}]}]]}],"isPartial":"$@d","staleTime":"$7","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@f","rootVaryParams":null,"needsRuntimeRequest":"$@10"}
+5:null
+10:true
+7:300
+7:C
+f:0
+a:"$undefined"
+d:"$undefined"
+6:"$undefined"

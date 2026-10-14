@@ -145,7 +145,7 @@ export default function About() {
 
                     <div>
                       <p className="text-2xl font-black text-[#f1b900]">
-                        10+
+                        5
                       </p>
 
                       <p className="text-xs font-bold text-white/60">
@@ -174,7 +174,7 @@ export default function About() {
 
                 <div className="mt-7 space-y-5 text-lg leading-8 text-slate-500">
                   <p>
-                    With 10+ years of experience in the mortgage industry,
+                    With 5 years of experience in the mortgage industry,
                     Preye Ukeko founded The Preferred Mortgage with a
                     simple belief: people deserve to understand the mortgage
                     decisions they are making.
@@ -200,8 +200,8 @@ export default function About() {
                   {[
                     "Mortgage Agent Level 2",
                     "License #M21004689",
-                    "Mortgage Outlet Inc. #13691",
-                    "10+ years of mortgage experience",
+                    "Brokerage License #13691",
+                    "5+ years of mortgage experience",
                   ].map((item) => (
                     <div
                       key={item}
@@ -255,11 +255,11 @@ export default function About() {
           <div className="mt-12 grid gap-5 md:grid-cols-3">
             {[
               {
-                number: "10+",
+                number: "5",
                 title: "Years of experience",
                           },
               {
-                number: "800+",
+                number: "100+",
                 title: "First-Time Buyers",
                      },
               {

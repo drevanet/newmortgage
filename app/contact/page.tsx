@@ -11,7 +11,7 @@ import {
 } from "lucide-react";
 import { useEffect, useState, type FormEvent } from "react";
 
-const WEB3FORMS_ACCESS_KEY = "YOUR_WEB3FORMS_ACCESS_KEY";
+const WEB3FORMS_ACCESS_KEY = "dbf5fe96-dc21-4665-9383-2471a194be92";
 
 export default function Contact() {
   const [booking, setBooking] = useState(false);
@@ -181,7 +181,7 @@ export default function Contact() {
                   </p>
 
                   <p className="mt-1 font-bold text-[#071a31]">
-                    +1 (647) 801-1150
+                    +1 (365) 883-0643
                   </p>
                 </div>
               </div>

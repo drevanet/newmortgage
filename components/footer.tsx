@@ -127,7 +127,7 @@ export default function Footer() {
                 href="tel:+16478011150"
                 className="transition hover:text-white"
               >
-                +1 (647) 801-1150
+                +1 (365) 883-0643
               </a>
             </p>
 
